@@ -1,4 +1,4 @@
-<img width="755" height="764" alt="femur_cart" src="https://github.com/user-attachments/assets/a526a37f-3150-41f4-933e-3aaa7b60d2dc" /># 基于统计形状模型预测软骨
+# 基于统计形状模型预测软骨
 
 ![image](data/gif/预测股骨软骨.gif)
 ![image](data/gif/预测胫骨软骨.gif)
